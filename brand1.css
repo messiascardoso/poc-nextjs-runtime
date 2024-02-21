@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+:root {
+  --background-brand-primary-default: rgb(255,105,180) !important;
+  --variable-test-andre: rgb(255,105,180) !important;
+}
+
+h1 {
+  color: green
+}
